@@ -9,7 +9,7 @@ The game is developed using **Next.js, TypeScript, and HTML5 Canvas**, and deliv
 
 Try the game right now in your browser:
 
-👉 https://9000-firebase-studio-1771582701978.cluster-osvg2nzmmzhzqqjio6oojllbg4.cloudworkstations.dev
+👉 [https://9000-firebase-studio-1771582701978.cluster-osvg2nzmmzhzqqjio6oojllbg4.cloudworkstations.dev](https://9000-firebase-studio-1771582701978.cluster-osvg2nzmmzhzqqjio6oojllbg4.cloudworkstations.dev)
 
 *(Note: The link points to the current preview environment hosted via Firebase Studio.)*
 
